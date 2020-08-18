@@ -33,7 +33,8 @@ public class TasterMOJO extends AbstractMojo {
             LOGGER.info("STILL IN DEVELOPMENT");
             LOGGER.info("hello from cooker-cucumber-reporter");
             LOGGER.info("generatedCucumberJSONPath = " + generatedCucumberJSONPath);
-            LOGGER.info("generateInPath = " + generateInPath);//dgaffvd
+            LOGGER.info("generateInPath = " + generateInPath);
+            System.out.println("TEST");
 
         } catch (Exception e) {
             e.printStackTrace();
