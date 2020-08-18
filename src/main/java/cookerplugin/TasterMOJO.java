@@ -30,7 +30,7 @@ public class TasterMOJO extends AbstractMojo {
     public void execute() throws MojoExecutionException, MojoFailureException {
         // The logic of our plugin will go here
         try {
-
+            LOGGER.info("STILL IN DEVELOPMENT");
             LOGGER.info("hello from cooker-cucumber-reporter");
             LOGGER.info("generatedCucumberJSONPath = " + generatedCucumberJSONPath);
             LOGGER.info("generateInPath = " + generateInPath);
