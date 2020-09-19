@@ -1,8 +1,11 @@
 Change Log
 ==========
 
-### Version 1.0.0
-_19 Sep 2020_ Initial Release
+### BELOW DATA IS STRICTLY A PLACE HOLDER, Once the release, this will be updated
+
+
+### Version 1.0 - SNAPSHOT
+_19 Sep 2020_ Started
 
 **Added**
 - ReadME,ChangeLog,LICENSE
